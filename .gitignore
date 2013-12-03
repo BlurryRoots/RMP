@@ -1,0 +1,8 @@
+*.uv*
+*_uv*
+*stm32*
+*.c
+*.h
+Lst/
+Obj/
+*.iex
